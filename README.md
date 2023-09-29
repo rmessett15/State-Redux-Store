@@ -34,6 +34,8 @@ Week-22 Challenge (State)
 
 ## Description
 
+The idea behind this application is to re-factor an already viable e-commerce web application so that it uses Redux to manage global state instead of the Context API so that the websites state management is taken out of the React ecosystem.
+
 ## Live URL
 
 ## Screenshots
