@@ -6,6 +6,8 @@ const rootReducer = combineReducers({
     // Set up new functions that live above root reducer to set up initial state of each component and any subsequent components needed from a particular page
 
   // Use reducers to create a more manageable stack of API calls
+
+  // Find out what needs to be changed and where Reacts context APIs live
     
 });
 
